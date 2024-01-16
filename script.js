@@ -8,6 +8,18 @@ var contactsData = [
 	},
 ]
 
+
+function createChatCards(nome, urlImg, lastMsg) {
+	const containerChatCards = document.querySelector('.chat-cards');
+
+	contactsData.forEach((contact) => {
+		contact = a
+
+		chatCard.append()
+		containerChatCards.appendChild(chatCard);
+	})
+
+}
 {/* 
 
 <div class="chat-card">
